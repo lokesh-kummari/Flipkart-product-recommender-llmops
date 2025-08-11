@@ -1,0 +1,6 @@
+setup.py
+Flipkart_Product_Recommender.egg-info/PKG-INFO
+Flipkart_Product_Recommender.egg-info/SOURCES.txt
+Flipkart_Product_Recommender.egg-info/dependency_links.txt
+Flipkart_Product_Recommender.egg-info/requires.txt
+Flipkart_Product_Recommender.egg-info/top_level.txt
